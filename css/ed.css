@@ -1,0 +1,26 @@
+ body{
+    margin: 0;
+    background-color: bisque;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ header{
+    background-color:rgb(236, 196, 146);
+    text-align:center;
+    padding-top:50px;
+    padding-bottom:-20px;
+ }
+
+ header h1{
+    color:white;
+ }
+ .right-box{
+    background-color:bisque;
+ }
+ 
+ .main-img{
+    border-radius: 150px;
+ }
+ header img{
+    border: 10px solid darkkhaki;
+ }
